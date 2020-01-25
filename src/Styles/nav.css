@@ -1,0 +1,21 @@
+.nav{
+  width: 100%;
+  color: white;
+  background-color: #303030;
+  height: 50px;
+}
+.nav div {
+  padding-top: 15px;
+}
+.title{
+  float: left;
+  padding-left: 15px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.links{
+  float: right;
+}
+.links span{
+  margin: 0 15px;
+}
